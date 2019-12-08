@@ -2,7 +2,7 @@
 
 ### Team--crunch
 
-#### Team Members (name, github-url, roles)
+#### Team Members (name, github-url, stack)
 *	Okegbemi Lawrence – https://github.com/law101 -  Machine Learning Engineer
 * Ahamisi Godsfavor – https://github.com/ahamisi – Back-end Developer
 * Adeyi Esther – https://github.com/mhizsean – Front-end Developer
