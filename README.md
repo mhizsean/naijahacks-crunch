@@ -1,8 +1,10 @@
-# naijahacks-crunch
-NaijaHacks Hackathon 2019
+# NaijaHacks Hackathon 2019
+### Team-crunch
 
 
-Team Members
-Okegbite Lawrenc
-Ahamisi Godsfavor
+
+# Team Members
+Okegbemi Lawrence
+Ahamisi God'sfavor
 Adeyi Esther
+Ojewale Kehinde
